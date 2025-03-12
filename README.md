@@ -18,11 +18,9 @@ This package provides a simple PHP library for interacting with the EMu REST API
 
 ## Directory Structure
 
-`src/`:  
-  All core classes and configuration files are placed here. This directory is intended to be included in your projects when you need to interact with the EMu REST API.
+`src/`:  All core classes and configuration files are placed here. This directory is intended to be included in your projects when you need to interact with the EMu REST API.
 
-`tests/`: 
-  Contains simple PHP test scripts for each class. These tests use basic assertions to help you verify that the API interactions work as expected. You can run these tests from the command line to ensure everything is functioning correctly in your environment.
+`tests/`:  Contains simple PHP test scripts for each class. These tests use basic assertions to help you verify that the API interactions work as expected. You can run these tests from the command line to ensure everything is functioning correctly in your environment.
   
 
 ## More Changes on the Way
