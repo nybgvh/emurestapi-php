@@ -7,6 +7,14 @@ This package provides a simple PHP library for interacting with the EMu REST API
 1. Download or clone this repository.
 2. Place the package in your PHP project.
 3. Update the `src/env.php` file with your EMu API configuration.
+4. **(Optional)** Run the tests:
+   - Change directory to the `tests` folder.
+   - Update the test files with your own test data if needed.
+   - Run the test scripts from the command line, e.g.:
+     ```bash
+     cd tests
+     php RetrieveTest.php
+     ```
 
 ## Directory Structure
 
