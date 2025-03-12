@@ -23,5 +23,9 @@ This package provides a simple PHP library for interacting with the EMu REST API
 
 `tests/`: 
   Contains simple PHP test scripts for each class. These tests use basic assertions to help you verify that the API interactions work as expected. You can run these tests from the command line to ensure everything is functioning correctly in your environment.
+  
+
+## More Changes on the Way
+Just a quick starter. We’re going to be working on more improvements. 
 
 
