@@ -5,7 +5,7 @@
  * Handles advanced search functionality for the EMu REST API using vanilla PHP.
  * @link https://help.emu.axiell.com/emurestapi/latest/05-Appendices-Query.html
  * 
- * Designed for maximum compatibility across PHP systems (5.3+).
+ * Designed for maximum compatibility across PHP systems (5.2+).
  * 
  * @author Joel Ramirez
  * @version 1.0
